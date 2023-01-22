@@ -1,4 +1,4 @@
-###Luis Elias Barral Larios
+###Luis Elias Barrall Larios
 Biblioteca={
     'categoria':["Drama","Terror","Satira",],
    
