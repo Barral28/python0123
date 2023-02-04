@@ -2,13 +2,6 @@
 clase Catálogo y producto ,realizar un objeto dentro de un catálogo productos el cual debe
 tener un método para agregar productos y otra para mostrar toda la lista de productos"""
 def ejer4():
-    def nameFile():
-        if __name__=='__main__':
-            print("archivo principal")
-        else:
-            print("dependencia")
-    nameFile()
-
     class Catalogo:
         producto=[]
         def __init__(self,producto=[]):

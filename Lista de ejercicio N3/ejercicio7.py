@@ -3,13 +3,6 @@ el cual tiene la siguiente estructura ‘PAIS-LOTE-AÑO’ ejemplo : ‘PERU-000
 método que permita imprimir el objeto de forma literal (__str__) y que me permita identificar
 el país de origen , el numero de lote ."""
 def ejer7():
-    class main:
-        def nameFile():
-            if __name__=='__main__':
-                print("archivo principal")
-            else:
-                print("dependencia")   
-        nameFile()
     
     class Producto:
         def __init__(self,nombre,codigo):
